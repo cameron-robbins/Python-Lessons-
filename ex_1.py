@@ -14,4 +14,4 @@ birth_year = current_year - age
 year_you_turn_100 = 100 + birth_year
 
 
-print(f'Hi {name} you will turn 100 in the year {year_you_turn_100}')
+print('Hi {name} you will turn 100 in the year {year_you_turn_100}')
